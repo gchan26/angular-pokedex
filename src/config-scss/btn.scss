@@ -20,4 +20,10 @@
         color: var(--white);
         background: var(--secondary-color);
     }
+
+    &:hover {
+        color: var(--white);
+        background: var(--secondary-color-hover);
+        // transition: 100ms;
+    }
 }
